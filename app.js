@@ -1,4 +1,4 @@
-var a = 'hola'
+var a = 'Dorai niñazoi'
 
 var boton = document.getElementById('boton')
 
